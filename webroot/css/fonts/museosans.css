@@ -1,0 +1,11 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'MuseoSans500Regular';
+    src: url('/font/museo_sans/MuseoSans_500-webfont.eot');
+    src: url('/font/museo_sans/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/font/museo_sans/MuseoSans_500-webfont.woff') format('woff'),
+    url('/font/museo_sans/MuseoSans_500-webfont.ttf') format('truetype'),
+    url('/font/museo_sans/MuseoSans_500-webfont.svg#MuseoSans500Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

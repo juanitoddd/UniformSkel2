@@ -1,0 +1,11 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'CodeProDemoRegular';
+    src: url('/font/code_pro/Code_Pro_Demo-webfont.eot');
+    src: url('/font/code_pro/Code_Pro_Demo-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/font/code_pro/Code_Pro_Demo-webfont.woff') format('woff'),
+    url('/font/code_pro/Code_Pro_Demo-webfont.ttf') format('truetype'),
+    url('/font/code_pro/Code_Pro_Demo-webfont.svg#CodeProDemoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
